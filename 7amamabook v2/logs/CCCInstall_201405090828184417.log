@@ -1,0 +1,785 @@
+===========================================
+** CCCInstall started: 2014-05-09 08:28:07Z
+[2014-05-09 08:28:07Z] Message: ARGS passed: ngen:i -a
+[2014-05-09 08:28:08Z] Message: Successfully loaded XML file C:\Program Files (x86)\ATI Technologies\ATI.ACE\Branding\Install.xml
+[2014-05-09 08:28:08Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Branding\CS\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:08Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Branding\DA\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:08Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Branding\DE\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:08Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Branding\EL\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:08Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Branding\ES\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:08Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Branding\FI\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:08Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Branding\FR\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:08Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Branding\HU\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:08Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Branding\IT\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:08Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Branding\JA\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:08Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Branding\KO\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:08Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Branding\NL\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:08Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Branding\NO\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:08Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Branding\PL\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:08Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Branding\pt-BR\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:08Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Branding\RU\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:08Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Branding\SV\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:08Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Branding\TH\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:08Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Branding\TR\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:08Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Branding\ZH-CHS\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:08Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Branding\ZH-CHT\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:08Z] Message: Successfully loaded XML file C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\Install.xml
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Combined.Graphics.Aspects1.Dashboard.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Combined.Graphics.Aspects2.Runtime.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Combined.HydraVision.Aspects.Runtime.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Combined.Fusion.Aspects.Runtime.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\ADL.Foundation.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\AEM.Actions.CCAA.Shared.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\AEM.Plugin.Source.EEU.Shared.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\AEM.Plugin.Source.GD.Shared.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\AEM.Plugin.DPPE.Shared.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\AEM.Plugin.Source.GD.Server.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\AEM.Plugin.GD.Shared.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\AEM.Plugin.REG.Shared.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\AEM.Plugin.Source.EEU.Server.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\AEM.Plugin.EEU.Shared.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\AEM.Plugin.Hotkeys.Shared.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\AEM.Plugin.WinMessages.Shared.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\AEM.Plugin.Services.Shared.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\AEM.Plugin.Source.Kit.Server.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\AEM.Server.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\AEM.Server.Shared.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\AEM.UI.Shared.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\AEM.UI.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\APM.Foundation.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\APM.Server.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CCC.Implementation.DLL" /queue
+[2014-05-09 08:28:08Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Implementation.DLL" /queue
+[2014-05-09 08:28:09Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\MOM.Implementation.DLL" /queue
+[2014-05-09 08:28:09Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.AMDHome.Graphics.Dashboard.DLL" /queue
+[2014-05-09 08:28:09Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.AMDHome.Graphics.Shared.DLL" /queue
+[2014-05-09 08:28:09Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.DeviceDFP.Graphics.Dashboard.DLL" /queue
+[2014-05-09 08:28:09Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.CrossFireX.Graphics.Dashboard.DLL" /queue
+[2014-05-09 08:28:10Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.CrossDisplay.Graphics.Dashboard.DLL" /queue
+[2014-05-09 08:28:10Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.CustomFormatSelection.Graphics.Dashboard.Shared.Private.DLL" /queue
+[2014-05-09 08:28:10Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.CustomFormats.Graphics.Shared.DLL" /queue
+[2014-05-09 08:28:10Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.DeviceCRT.Graphics.Shared.DLL" /queue
+[2014-05-09 08:28:10Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.DeviceDFP.Graphics.Shared.DLL" /queue
+[2014-05-09 08:28:10Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.DeviceLCD.Graphics.Shared.DLL" /queue
+[2014-05-09 08:28:10Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.DeviceProperty.Graphics.Shared.DLL" /queue
+[2014-05-09 08:28:10Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.DeviceProperty.Graphics.Dashboard.Shared.DLL" /queue
+[2014-05-09 08:28:10Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.DeviceProperty.Graphics.Runtime.DLL" /queue
+[2014-05-09 08:28:10Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.DisplaysColour2.Graphics.Shared.DLL" /queue
+[2014-05-09 08:28:10Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.HotkeysHandling.Graphics.Shared.DLL" /queue
+[2014-05-09 08:28:11Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.InfoCentre.Graphics.Dashboard.DLL" /queue
+[2014-05-09 08:28:11Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.MMVideo.Graphics.Dashboard.DLL" /queue
+[2014-05-09 08:28:11Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.MMVideo.Graphics.Shared.DLL" /queue
+[2014-05-09 08:28:11Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.MultiVPU2.Graphics.Dashboard.DLL" /queue
+[2014-05-09 08:28:11Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.MultiVPU2.Graphics.Shared.DLL" /queue
+[2014-05-09 08:28:11Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.MultiVPU4.Graphics.Dashboard.DLL" /queue
+[2014-05-09 08:28:11Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.MultiVPU4.Graphics.Shared.DLL" /queue
+[2014-05-09 08:28:11Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.OverDrive5.Graphics.Dashboard.DLL" /queue
+[2014-05-09 08:28:11Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.OverDrive5.Graphics.Shared.DLL" /queue
+[2014-05-09 08:28:11Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.PowerPlayDPPE.Graphics.Runtime.DLL" /queue
+[2014-05-09 08:28:11Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.PowerPlayDPPE.Graphics.Dashboard.DLL" /queue
+[2014-05-09 08:28:11Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.PowerPlayDPPE.Graphics.Shared.DLL" /queue
+[2014-05-09 08:28:11Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.PowerXpress.Graphics.Shared.DLL" /queue
+[2014-05-09 08:28:11Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.PowerXpress.Graphics.Runtime.DLL" /queue
+[2014-05-09 08:28:11Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.PowerXpress.Graphics.Dashboard.DLL" /queue
+[2014-05-09 08:28:12Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.Radeon3D.Graphics.Shared.DLL" /queue
+[2014-05-09 08:28:12Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.Radeon3D.Graphics.Dashboard.DLL" /queue
+[2014-05-09 08:28:12Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.TutorialInfoCentre.Graphics.Dashboard.DLL" /queue
+[2014-05-09 08:28:12Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.TransCode.Graphics.Runtime.DLL" /queue
+[2014-05-09 08:28:12Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.TransCode.Graphics.Dashboard.DLL" /queue
+[2014-05-09 08:28:12Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.TransCode.Graphics.Shared.DLL" /queue
+[2014-05-09 08:28:12Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.WorkstationConfig2.Graphics.Runtime.DLL" /queue
+[2014-05-09 08:28:13Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.WorkstationConfig2.Graphics.Dashboard.DLL" /queue
+[2014-05-09 08:28:13Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.WorkstationConfig2.Graphics.Shared.DLL" /queue
+[2014-05-09 08:28:13Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.FramelockGenlock.Graphics.Runtime.DLL" /queue
+[2014-05-09 08:28:13Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.FramelockGenlock.Graphics.Dashboard.DLL" /queue
+[2014-05-09 08:28:13Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.FramelockGenlock.Graphics.Shared.DLL" /queue
+[2014-05-09 08:28:13Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.ECC.Graphics.Runtime.DLL" /queue
+[2014-05-09 08:28:13Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.ECC.Graphics.Dashboard.DLL" /queue
+[2014-05-09 08:28:13Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.ECC.Graphics.Shared.DLL" /queue
+[2014-05-09 08:28:13Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.SDI.Graphics.Runtime.DLL" /queue
+[2014-05-09 08:28:13Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.SDI.Graphics.Dashboard.DLL" /queue
+[2014-05-09 08:28:13Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.SDI.Graphics.Shared.DLL" /queue
+[2014-05-09 08:28:13Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.Settings.HydraVision.Shared.DLL" /queue
+[2014-05-09 08:28:13Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.Grid.HydraVision.Shared.DLL" /queue
+[2014-05-09 08:28:13Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.DeskMan.HydraVision.Shared.DLL" /queue
+[2014-05-09 08:28:13Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.MDProp.HydraVision.Shared.DLL" /queue
+[2014-05-09 08:28:13Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.MultiDesk.HydraVision.Shared.DLL" /queue
+[2014-05-09 08:28:13Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.DPPE.Fuel.Shared.DLL" /queue
+[2014-05-09 08:28:13Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.Fets.Fuel.Shared.DLL" /queue
+[2014-05-09 08:28:13Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.WiFi.Fuel.Shared.DLL" /queue
+[2014-05-09 08:28:13Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.CPUPStates.Fuel.Shared.DLL" /queue
+[2014-05-09 08:28:13Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.User.Fuel.Dashboard.DLL" /queue
+[2014-05-09 08:28:13Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.DPPE.Fuel.Dashboard.DLL" /queue
+[2014-05-09 08:28:14Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.Fets.Fuel.Dashboard.DLL" /queue
+[2014-05-09 08:28:14Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.WiFi.Fuel.Dashboard.DLL" /queue
+[2014-05-09 08:28:14Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.CPUPStates.Fuel.Dashboard.DLL" /queue
+[2014-05-09 08:28:14Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.DisplaysOptions.Graphics.Dashboard.DLL" /queue
+[2014-05-09 08:28:14Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.A4.A4.Runtime.DLL" /queue
+[2014-05-09 08:28:14Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.A4.A4.Dashboard.DLL" /queue
+[2014-05-09 08:28:14Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Aspect.A4.A4.Shared.DLL" /queue
+[2014-05-09 08:28:14Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Caste.Graphics.Runtime.DLL" /queue
+[2014-05-09 08:28:14Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Caste.Graphics.Dashboard.DLL" /queue
+[2014-05-09 08:28:14Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Caste.Graphics.Runtime.Shared.Private.DLL" /queue
+[2014-05-09 08:28:14Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Caste.Graphics.Dashboard.Shared.DLL" /queue
+[2014-05-09 08:28:14Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Caste.Graphics.Shared.DLL" /queue
+[2014-05-09 08:28:14Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Caste.HydraVision.Dashboard.DLL" /queue
+[2014-05-09 08:28:15Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Caste.HydraVision.Runtime.DLL" /queue
+[2014-05-09 08:28:15Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Caste.HydraVision.Shared.DLL" /queue
+[2014-05-09 08:28:15Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Caste.Fuel.Runtime.DLL" /queue
+[2014-05-09 08:28:15Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Caste.Fuel.Shared.DLL" /queue
+[2014-05-09 08:28:15Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Caste.Fuel.Dashboard.DLL" /queue
+[2014-05-09 08:28:15Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Caste.Platform.Dashboard.DLL" /queue
+[2014-05-09 08:28:15Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Caste.Platform.Runtime.DLL" /queue
+[2014-05-09 08:28:15Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Caste.Platform.Shared.DLL" /queue
+[2014-05-09 08:28:15Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Caste.A4.Dashboard.DLL" /queue
+[2014-05-09 08:28:15Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Caste.A4.Runtime.DLL" /queue
+[2014-05-09 08:28:15Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Caste.A4.Shared.DLL" /queue
+[2014-05-09 08:28:15Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Component.Client.Shared.Private.DLL" /queue
+[2014-05-09 08:28:16Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Component.Client.Shared.DLL" /queue
+[2014-05-09 08:28:16Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Component.Dashboard.Shared.DLL" /queue
+[2014-05-09 08:28:16Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Component.Dashboard.DLL" /queue
+[2014-05-09 08:28:16Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Component.Dashboard.HotKeyManager.DLL" /queue
+[2014-05-09 08:28:16Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Component.Dashboard.ProfileManager2.DLL" /queue
+[2014-05-09 08:28:16Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Component.Dashboard.Shared.Private.DLL" /queue
+[2014-05-09 08:28:16Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Component.Eeu.DLL" /queue
+[2014-05-09 08:28:16Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Component.Erecord.DLL" /queue
+[2014-05-09 08:28:16Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Component.Help.DLL" /queue
+[2014-05-09 08:28:16Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Component.Icomponent.DLL" /queue
+[2014-05-09 08:28:16Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Component.Load.DLL" /queue
+[2014-05-09 08:28:16Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Component.Launchpad.DLL" /queue
+[2014-05-09 08:28:16Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Component.Runtime.Shared.DLL" /queue
+[2014-05-09 08:28:16Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Component.Runtime.DLL" /queue
+[2014-05-09 08:28:16Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Component.Runtime.Shared.Private.DLL" /queue
+[2014-05-09 08:28:16Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Component.Runtime.Extension.EEU.DLL" /queue
+[2014-05-09 08:28:16Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Component.Systemtray.DLL" /queue
+[2014-05-09 08:28:16Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Component.StartNow.DLL" /queue
+[2014-05-09 08:28:16Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Foundation.DLL" /queue
+[2014-05-09 08:28:16Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Foundation.Client.DLL" /queue
+[2014-05-09 08:28:16Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Foundation.XManifest.DLL" /queue
+[2014-05-09 08:28:16Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.Foundation.Private.DLL" /queue
+[2014-05-09 08:28:17Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\DEM.Foundation.DLL" /queue
+[2014-05-09 08:28:17Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\LOG.Foundation.DLL" /queue
+[2014-05-09 08:28:17Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\LOG.Foundation.Implementation.DLL" /queue
+[2014-05-09 08:28:17Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\LOG.Foundation.Implementation.Private.DLL" /queue
+[2014-05-09 08:28:17Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\LOG.Foundation.Private.DLL" /queue
+[2014-05-09 08:28:17Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\LOCALIZATION.Foundation.Private.DLL" /queue
+[2014-05-09 08:28:17Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\MOM.Foundation.DLL" /queue
+[2014-05-09 08:28:17Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\Fuel.Foundation.DLL" /queue
+[2014-05-09 08:28:17Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\A4.Foundation.DLL" /queue
+[2014-05-09 08:28:17Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\NEWAEM.Foundation.DLL" /queue
+[2014-05-09 08:28:17Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\PCKGHLP.Foundation.Private.DLL" /queue
+[2014-05-09 08:28:17Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\PCKGHLP.Foundation.Implementation.DLL" /queue
+[2014-05-09 08:28:17Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\ResourceManagement.Foundation.Private.DLL" /queue
+[2014-05-09 08:28:17Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\ResourceManagement.Foundation.Implementation.DLL" /queue
+[2014-05-09 08:28:17Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\DEM.Graphics.DLL" /queue
+[2014-05-09 08:28:17Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\DEM.Graphics.I0601.DLL" /queue
+[2014-05-09 08:28:17Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\DEM.Graphics.I0702.DLL" /queue
+[2014-05-09 08:28:17Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\DEM.Graphics.I0703.DLL" /queue
+[2014-05-09 08:28:17Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\DEM.Graphics.I0706.DLL" /queue
+[2014-05-09 08:28:17Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\DEM.Graphics.I0709.DLL" /queue
+[2014-05-09 08:28:17Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\DEM.Graphics.I0710.DLL" /queue
+[2014-05-09 08:28:17Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\DEM.Graphics.I0712.DLL" /queue
+[2014-05-09 08:28:17Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\DEM.Graphics.I0804.DLL" /queue
+[2014-05-09 08:28:17Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\DEM.Graphics.I0805.DLL" /queue
+[2014-05-09 08:28:18Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\DEM.Graphics.I0812.DLL" /queue
+[2014-05-09 08:28:18Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\DEM.Graphics.I0901.DLL" /queue
+[2014-05-09 08:28:18Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\DEM.Graphics.I0906.DLL" /queue
+[2014-05-09 08:28:18Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\DEM.Graphics.I0912.DLL" /queue
+[2014-05-09 08:28:18Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\DEM.Graphics.I1010.DLL" /queue
+[2014-05-09 08:28:18Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CCC.EXE" /queue
+[2014-05-09 08:28:18Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\MOM.EXE" /queue
+[2014-05-09 08:28:18Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CLI.EXE" /queue
+[2014-05-09 08:28:18Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\LOG.EXE" /queue
+[2014-05-09 08:28:18Z] Message: Assembly not found: C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\Interop.NewIWshRuntimeLibrary.DLL
+[2014-05-09 08:28:18Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\ICSharpCode.SharpZipLib.DLL" /queue
+[2014-05-09 08:28:18Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\Microsoft.Expression.Interactions.DLL" /queue
+[2014-05-09 08:28:18Z] Message: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\System.Windows.Interactivity.DLL" /queue
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\CS\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\DA\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\DE\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\EL\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\ES\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\FI\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\FR\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\HU\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\IT\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\JA\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\KO\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\NL\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\NO\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\PL\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\pt-BR\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\RU\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\SV\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\TH\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\TR\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\ZH-CHS\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\ZH-CHT\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\CS\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\DA\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\DE\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\EL\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\ES\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\FI\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\FR\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\HU\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\IT\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\JA\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\KO\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\NL\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\NO\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\PL\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\pt-BR\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\RU\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\SV\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\TH\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\TR\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\ZH-CHS\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Graphics-Previews-Common\ZH-CHT\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find \Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find \CS\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find \DA\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find \DE\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find \EL\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find \ES\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find \FI\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find \FR\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find \HU\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find \IT\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find \JA\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find \KO\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find \NL\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find \NO\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find \PL\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find \pt-BR\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find \RU\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find \SV\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find \TH\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find \TR\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find \ZH-CHS\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find \ZH-CHT\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\MOM-InstallProxy\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\MOM-InstallProxy\CS\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\MOM-InstallProxy\DA\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\MOM-InstallProxy\DE\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\MOM-InstallProxy\EL\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\MOM-InstallProxy\ES\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\MOM-InstallProxy\FI\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\MOM-InstallProxy\FR\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\MOM-InstallProxy\HU\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\MOM-InstallProxy\IT\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\MOM-InstallProxy\JA\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\MOM-InstallProxy\KO\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\MOM-InstallProxy\NL\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\MOM-InstallProxy\NO\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\MOM-InstallProxy\PL\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\MOM-InstallProxy\pt-BR\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\MOM-InstallProxy\RU\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\MOM-InstallProxy\SV\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\MOM-InstallProxy\TH\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\MOM-InstallProxy\TR\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\MOM-InstallProxy\ZH-CHS\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\MOM-InstallProxy\ZH-CHT\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\PowerXpressHybrid\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\PowerXpressHybrid\CS\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\PowerXpressHybrid\DA\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\PowerXpressHybrid\DE\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\PowerXpressHybrid\EL\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\PowerXpressHybrid\ES\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\PowerXpressHybrid\FI\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\PowerXpressHybrid\FR\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\PowerXpressHybrid\HU\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\PowerXpressHybrid\IT\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\PowerXpressHybrid\JA\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\PowerXpressHybrid\KO\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\PowerXpressHybrid\NL\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\PowerXpressHybrid\NO\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\PowerXpressHybrid\PL\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\PowerXpressHybrid\pt-BR\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\PowerXpressHybrid\RU\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\PowerXpressHybrid\SV\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\PowerXpressHybrid\TH\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\PowerXpressHybrid\TR\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\PowerXpressHybrid\ZH-CHS\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\PowerXpressHybrid\ZH-CHT\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Profiles\Mobile\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Profiles\Mobile\CS\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Profiles\Mobile\DA\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Profiles\Mobile\DE\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Profiles\Mobile\EL\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Profiles\Mobile\ES\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Profiles\Mobile\FI\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Profiles\Mobile\FR\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Profiles\Mobile\HU\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Profiles\Mobile\IT\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Profiles\Mobile\JA\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Profiles\Mobile\KO\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Profiles\Mobile\NL\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Profiles\Mobile\NO\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Profiles\Mobile\PL\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Profiles\Mobile\pt-BR\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Profiles\Mobile\RU\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Profiles\Mobile\SV\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Profiles\Mobile\TH\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Profiles\Mobile\TR\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Profiles\Mobile\ZH-CHS\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+[2014-05-09 08:28:18Z] Exception:
+Could not find C:\Program Files (x86)\ATI Technologies\ATI.ACE\Profiles\Mobile\ZH-CHT\Install.xml
+   at ATI.ACE.CCCInstall.Tasks.BaseTask.MassagePath(String path)
+   at ATI.ACE.CCCInstall.Tasks.NgenTasks.Run(String filePath)
+** CCCInstall ended: 2014-05-09 08:28:18Z
+===========================================

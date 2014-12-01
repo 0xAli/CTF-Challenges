@@ -1,0 +1,14 @@
+user: 7amamaberg
+IP: 127.0.0.1
+microtime: 0.36291200 1417090890
+Session ID: 9efdaeef01[REDACTED]
+
+user: user
+IP: 41.52.112.65
+microtime: 0.29302200 1417091013
+Session ID: 8261ad35c4[REDACTED]
+
+user: test
+IP: 35.12.64.33
+microtime: 0.17074400 1417091070
+Session ID: 11ba799e6d[REDACTED]

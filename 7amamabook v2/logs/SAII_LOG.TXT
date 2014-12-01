@@ -1,0 +1,89 @@
+7.35.0.2 : 08:20:15.844 :   ENTRY: CCmdLineParser::ParseOutVariable
+7.35.0.2 : 08:20:15.844 :   csCmdLine = -LC:\WINDOWS\SAII_LOG.TXT
+7.35.0.2 : 08:20:15.844 :   csVarType = L1, nFormat = -4
+7.35.0.2 : 08:20:15.844 :   EXIT:  CCmdLineParser::ParseOutVariable : bRetVal = 0
+7.35.0.2 : 08:20:15.844 :   ENTRY: CCmdLineParser::ParseOutVariable
+7.35.0.2 : 08:20:15.844 :   csCmdLine = -LC:\WINDOWS\SAII_LOG.TXT
+7.35.0.2 : 08:20:15.844 :   csVarType = L, nFormat = -4
+7.35.0.2 : 08:20:15.844 :   csMyCmdLine = 
+7.35.0.2 : 08:20:15.844 :   csMyDataOut = C:\WINDOWS\SAII_LOG.TXT
+7.35.0.2 : 08:20:15.844 :   EXIT:  CCmdLineParser::ParseOutVariable : bRetVal = 1
+7.35.0.2 : 08:20:15.844 : C:\drivers\7. Conexant Audio Driver\SAII\Setup.exe -
+7.35.0.2 : 08:20:15.844 :   ENTRY: CSetupApp::RunSetupApp : UIU Application Build v7.35.0.2
+7.35.0.2 : 08:20:15.844 :   Version = V7.35.0.2
+7.35.0.2 : 08:20:15.844 :   OS Platform = OS_WIN7-64
+7.35.0.2 : 08:20:15.844 :   dwSetupConfig = 20100 : dwMode = 480000
+7.35.0.2 : 08:20:15.844 :   Found Mutex - CNXT_COINST_RUNNING
+7.35.0.2 : 08:20:15.844 :   CSetupApp::GetSetupModeInfo : csCmdLine = -LC:\WINDOWS\SAII_LOG.TXT -L2=DETAIL -PNPID_FROM_UCI=HDAUDIO\FUNC_01&VEN_14F1&DEV_5115&SUBSYS_17AAC041-VNET=V3.0+ -SWTM="HDAUDIOAPI-D9A3021B-9BCE-458C-B667-9029C4EF4050,1801" -INI=SAII.INI, SAII
+7.35.0.2 : 08:20:15.844 :   CSetupApp::GetSetupConfigInfo : csCmdLine = -LC:\WINDOWS\SAII_LOG.TXT -L2=DETAIL -PNPID_FROM_UCI=HDAUDIO\FUNC_01&VEN_14F1&DEV_5115&SUBSYS_17AAC041-VNET=V3.0+ -SWTM="HDAUDIOAPI-D9A3021B-9BCE-458C-B667-9029C4EF4050,1801"
+7.35.0.2 : 08:20:15.844 :     ENTRY: CSetupApp::CloseAnyRequestedAppWindows
+7.35.0.2 : 08:20:15.844 :       ENTRY: SendExitMsgToApp
+7.35.0.2 : 08:20:15.844 :       csAppName = HDAUDIOAPI-D9A3021B-9BCE-458C-B667-9029C4EF4050, uExitMsg = 1801, bWindowTitle = 1
+7.35.0.2 : 08:20:15.844 :       EXIT:  SendExitMsgToApp
+7.35.0.2 : 08:20:15.844 :     EXIT:  CSetupApp::CloseAnyRequestedAppWindows
+7.35.0.2 : 08:20:15.844 :     ENTRY: CSetupISS::ParseSetupISSFile
+7.35.0.2 : 08:20:15.844 :     EXIT:  CSetupISS::ParseSetupISSFile
+7.35.0.2 : 08:20:15.844 :     ENTRY: CInstall :: Initialize
+7.35.0.2 : 08:20:15.844 :     m_csTempPath = C:\Windows\TEMP
+7.35.0.2 : 08:20:15.844 :     EXIT:  CInstall :: Initialize
+7.35.0.2 : 08:20:15.844 :     ENTRY: CSetupDlg::RunSetupDlg
+7.35.0.2 : 08:20:15.969 :       ENTRY: CInstall :: SetupInstallEnviroment
+7.35.0.2 : 08:20:15.969 :         ENTRY: CINIFile::CINIFile
+7.35.0.2 : 08:20:15.969 :           ENTRY: CINIFile::ReInitialize
+7.35.0.2 : 08:20:15.969 :           EXIT:  CINIFile::ReInitialize : m_szINIPath = C:\drivers\7. Conexant Audio Driver\SAII\
+7.35.0.2 : 08:20:15.969 :         EXIT:  CINIFile::CINIFile : m_szINIPath = C:\drivers\7. Conexant Audio Driver\SAII\
+7.35.0.2 : 08:20:15.969 :         ENTRY: CINIFile::IsInstallCriteriaMet
+7.35.0.2 : 08:20:15.969 :         csDeviceID=  ; csInstallPath = 
+7.35.0.2 : 08:20:15.969 :           ENTRY: KINIFile::Initialize : pszDeviceID = 
+7.35.0.2 : 08:20:15.984 :             ENTRY: CDevNode::FindDevNode : pszPNPID = 
+7.35.0.2 : 08:20:15.984 :             EXIT:  CDevNode::FindDevNode : bRetVal = 1
+7.35.0.2 : 08:20:16.000 :             ENTRY: CDevNode::FindDevNode : pszPNPID = 
+7.35.0.2 : 08:20:16.000 :             EXIT:  CDevNode::FindDevNode : bRetVal = 1
+7.35.0.2 : 08:20:16.000 :           m_szDriverPath = {4d36e97d-e325-11ce-bfc1-08002be10318}\0038, m_ClassType = 2
+7.35.0.2 : 08:20:16.000 :           m_pSetupParms->csParentFilePath=,
+7.35.0.2 : 08:20:16.000 :           MyPaths = C:\drivers\7. Conexant Audio Driver\SAII\
+7.35.0.2 : 08:20:16.000 :           EXIT:  KINIFile::Initialize
+7.35.0.2 : 08:20:16.000 :           ENTRY: KINIFile::IsAbortDeviceInstallIfFailureCase : csInstallPath= 
+7.35.0.2 : 08:20:16.000 :             ENTRY: KINIFile::GetInstallAppSectionListInfo : csInstallPath= 
+7.35.0.2 : 08:20:16.000 :               ENTRY: KINIFile::LocateINIFileNames
+7.35.0.2 : 08:20:16.000 :               pszInstallPath = \
+7.35.0.2 : 08:20:16.000 :               EXIT:  KINIFile::LocateINIFileNames : pkslINIFileNames->GetCount() = 0
+7.35.0.2 : 08:20:16.000 :             EXIT:  KINIFile::GetInstallAppSectionListInfo : bRetVal = 0
+7.35.0.2 : 08:20:16.000 :           EXIT:  KINIFile::IsAbortDeviceInstallIfFailureCase : dwRetVal = 0
+7.35.0.2 : 08:20:16.000 :         EXIT:  CINIFile::IsInstallCriteriaMet : dwRetVal = 0
+7.35.0.2 : 08:20:16.000 :       EXIT:  CInstall :: SetupInstallEnviroment : m_kDeviceDataList.GetCount() = 1
+7.35.0.2 : 08:20:16.000 :       ENTRY: CInstall::SpawnToUIU64IfNeeded
+7.35.0.2 : 08:20:16.000 :       csSetupExe = C:\drivers\7. Conexant Audio Driver\SAII\x64\Setup64.exe
+7.35.0.2 : 08:20:16.000 :       szTempPath = C:\Windows\TEMP\536cf2300
+7.35.0.2 : 08:20:16.125 :       csNewSetupExe = C:\Windows\TEMP\536cf2300\Setup64.exe
+7.35.0.2 : 08:20:16.125 :         ENTRY: CFileUtils::CopyAFile
+7.35.0.2 : 08:20:16.125 :         pszSourceFile=C:\drivers\7. Conexant Audio Driver\SAII\x64\Setup64.exe, pszDestinationFile=C:\Windows\TEMP\536cf2300\Setup64.exe, dwDestFlag=0
+7.35.0.2 : 08:20:16.125 :         EXIT:  CFileUtils::CopyAFile : dwRetVal = 1
+7.35.0.2 : 08:20:16.125 :       csCmdline = -S -LC:\WINDOWS\SAII_LOG.TXT -L2=DETAIL -PNPID_FROM_UCI=HDAUDIO\FUNC_01&VEN_14F1&DEV_5115&SUBSYS_17AAC041-VNET=V3.0+ -SWTM="HDAUDIOAPI-D9A3021B-9BCE-458C-B667-9029C4EF4050,1801" -INI=SAII.INI, SAII
+7.35.0.2 : 08:20:16.125 :         ENTRY: CSetupApp::SpawnAnotherUIU
+7.35.0.2 : 08:20:16.125 :         pszExeName=C:\Windows\TEMP\536cf2300\Setup64.exe, pszCmdArg=-S -LC:\WINDOWS\SAII_LOG.TXT -L2=DETAIL -PNPID_FROM_UCI=HDAUDIO\FUNC_01&VEN_14F1&DEV_5115&SUBSYS_17AAC041-VNET=V3.0+ -SWTM="HDAUDIOAPI-D9A3021B-9BCE-458C-B667-9029C4EF4050,1801" -INI=SAII.INI, SAII, bWaitForProcess=1
+7.35.0.2 : 08:20:16.125 :         csWorkingDir = C:\Windows\TEMP\536cf2300\
+7.35.0.2 : 08:20:16.125 :         Trying to Spawn with ShellExecuteExA
+7.35.0.2 : 08:20:16.125 :         szExeName = "C:\Windows\TEMP\536cf2300\Setup64.exe"
+7.35.0.2 : 08:20:16.125 :         szCmdLine = -S -LC:\WINDOWS\SAII_LOG.TXT -L2=DETAIL -PNPID_FROM_UCI=HDAUDIO\FUNC_01&VEN_14F1&DEV_5115&SUBSYS_17AAC041-VNET=V3.0+ -SWTM="HDAUDIOAPI-D9A3021B-9BCE-458C-B667-9029C4EF4050,1801" -INI=SAII.INI, SAII
+7.35.0.2 : 08:20:55.249 :         dwRetVal & ~RETVAL_SPAWNAPP_SUCCESS = 0
+7.35.0.2 : 08:20:55.249 :         EXIT:  CSetupApp::SpawnAnotherUIU : dwRetVal = 8
+7.35.0.2 : 08:20:55.249 :         ENTRY: CInstall::ReadRegHWRetVal
+7.35.0.2 : 08:20:55.249 :         EXIT:  CInstall::ReadRegHWRetVal
+7.35.0.2 : 08:20:55.249 :       *pdwStatus = 1
+7.35.0.2 : 08:20:55.249 :       EXIT:  CInstall::SpawnToUIU64IfNeeded : bRetVal=1
+7.35.0.2 : 08:20:55.249 :       ENTRY: CInstall::DoGuiuDeferInstallApp
+7.35.0.2 : 08:20:55.249 :         ENTRY: CINIFile::ReInitialize
+7.35.0.2 : 08:20:55.249 :         EXIT:  CINIFile::ReInitialize : m_szINIPath = C:\drivers\7. Conexant Audio Driver\SAII\
+7.35.0.2 : 08:20:55.249 :       EXIT:  CInstall::DoGuiuDeferInstallApp
+7.35.0.2 : 08:20:55.249 :     EXIT:  CSetupDlg::RunSetupDlg
+7.35.0.2 : 08:20:55.265 :   EXIT:  CSetupApp::RunSetupApp : m_SetupParms.nRetVal = 0
+7.35.0.2 : 08:20:55.265 :   ENTRY: CSetupApp::DoBlockedFilesWorkAround
+7.35.0.2 : 08:20:55.265 :   EXIT:  CSetupApp::DoBlockedFilesWorkAround
+7.35.0.2 : 08:20:55.265 :   ENTRY: CSetupApp::SetupForReboot
+7.35.0.2 : 08:20:55.265 :   EXIT:  CSetupApp::SetupForReboot
+7.35.0.2 : 08:20:55.265 :   ENTRY: CSetupApp::SetupRetVal
+7.35.0.2 : 08:20:55.265 :     ENTRY: CSetupApp::SetupRetVal : m_SetupParms.nRetVal = 0
+7.35.0.2 : 08:20:55.265 :     EXIT:  CSetupApp::InitInstance() : m_SetupParms.nRetVal = 0
+7.35.0.2 : 08:20:55.265 :     ENTRY: CSetupApp::ExitInstance()
+7.35.0.2 : 08:20:55.265 :     EXIT:  CSetupApp::ExitInstance()
