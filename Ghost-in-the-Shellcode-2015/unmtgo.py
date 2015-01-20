@@ -91,7 +91,7 @@ def my_game(dek,sock,seeds):
 	deck = shuffle(basedeck)
 	return deck
 	
-wdeck = '' # Initialize the winning deck it
+wdeck = '' # Initialize the winning deck
 while True:
 	inputt = raw_input("Enter input: ")
 	s   = sock()
